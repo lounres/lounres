@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm student at St. Petersburg (State) University. I am learning how to be :sparkles:_cool_:sparkles:. I'm joking, only mathematics:triangular_ruler:.
+
+Also I like programming something in spare time. For example, I made [a game](https://github.com/m20-sch57/thetruehat) with my classmates in lockdown. And you can find some (La)TeX repos of my libraries, lecture notes etc. here.

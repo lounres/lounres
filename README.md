@@ -23,6 +23,9 @@ Currently, for a long while I am learning Kotlin and I love it.
 
 ---
 
+<!--
+  Here are stats cards by https://github.com/anuraghazra/github-readme-stats#github-extra-pins
+-->
 <div>
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=lounres&show_icons=true&hide_title=true&theme=dark" />
   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lounres&langs_count=3&layout=compact&theme=dark" />

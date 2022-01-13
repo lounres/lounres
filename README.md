@@ -17,4 +17,13 @@ Here are some ideas to get you started:
 
 I'm student at St. Petersburg (State) University. I am learning how to be :sparkles:_cool_:sparkles:. I'm joking, only mathematics:triangular_ruler:.
 
-Also I like programming something in spare time. For example, I made [a game](https://github.com/m20-sch57/thetruehat) with my classmates in lockdown. And you can find some (La)TeX repos of my libraries, lecture notes etc. here.
+Also I like programming something in spare time. For example, I made [a game](https://github.com/m20-sch57/thetruehat) with my classmates in lockdown in 2020. And you can find some LaTeX repos of my libraries, lecture notes etc. here.
+
+Currently, for a long while I am learning Kotlin and I love it.
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lounres&show_icons=true&hide_title=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lounres&langs_count=3&layout=compact&theme=dark" />
+</div>

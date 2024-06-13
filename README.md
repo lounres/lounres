@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 I am a maths bachelor student 📐 at Saint Petersburg State University (a.k.a. SPbU or СПбГУ). Also, computational maths experiments enthusiast and Kotlin amateur. I.e. my main direction of work consists of:
-1. Abstract maths. More specifically, algebraic geometry, computatinal geometry, and some other computational areas.
+1. Abstract maths. More specifically, algebraic geometry, computatinal geometry, and some other computational areas. Except for computational complexity theory.
 1. Mathematical computations (implementations of mathematical algorithms) and simulations (experiments without concrete goal).
 1. And mathematical libraries API architecture (where I suck).
 
@@ -39,6 +39,13 @@ Currently, I am working on/maintaining such projects:
     For now, it is in early development stage. Unlike TheTrueHat, HalfHat follows publicly available and popular design system Material 3 by Google. It is going to gain desktop and Android clients aside from web one. Also, it is going to be a Kotlin Multiplatform and Compose Multiplatform project that should be simple to migrate on iOS.
 
     Why does the word "hat" appear in the names? That's because in Russia it is called "шляпа" which literally is "the hat". And it called like that because all the words to guess are kept in a hat which is passed from player to player. But the "half" and "the true" parts came up randomly in our minds, so that's how I gave the project code name "HalfHat".
+
+## What am I familiar with? What technologies and knowledges I wield?
+
+- **Mathematics:** linear algebra and geometry, discrete math, probability theory, math analysis, etc.
+- **Programming languages:** Kotlin; partially HTML/CSS, SQL, JavaScript, TypeScript, Rust, LaTeX.
+- **Libraries, technologies, and instruments:** Gradle, and a lot of other things that I am lazy to write for now <!-- TODO: Describe other instruments -->
+
 
 <!--
   Here are stats cards by https://github.com/anuraghazra/github-readme-stats#github-extra-pins

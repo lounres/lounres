@@ -34,7 +34,7 @@ Currently, I am working on/maintaining such projects:
 
 1. **[KMath](https://github.com/SciProgCentre/kmath)** (and [kmath-polynomial](https://github.com/SciProgCentre/kmath-polynomial)). This is another math project but with a more practical focus. I am maintaining it and reviewing PRs into it.
 
-1. 🎩 ... (Code name "HalfHat".) It is an implementation of the alias game. It's 100% Kotlin reimplementation of [TheTrueHat](https://github.com/m20-sch57/thetruehat) which was my and some of my classmates' programming project.
+1. [🎩 ...](https://github.com/lounres/HalfHat) (Code name "HalfHat".) It is an implementation of the alias game. It's 100% Kotlin reimplementation of [TheTrueHat](https://github.com/m20-sch57/thetruehat) which was my and some of my classmates' programming project.
 
     For now, it is in early development stage. Unlike TheTrueHat, HalfHat follows publicly available and popular design system Material 3 by Google. It is going to gain desktop and Android clients aside from web one. Also, it is going to be a Kotlin Multiplatform and Compose Multiplatform project that should be simple to migrate on iOS.
 

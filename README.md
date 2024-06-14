@@ -12,7 +12,7 @@ Currently, I am finishing my studies at the university and trying to figure out 
 ## What am I working on?
 
 Currently, I am working on/maintaining such projects:
-1. **[<img style="height:1em;" src="https://github.com/lounres/Kone/blob/main/assets/sources/kone-mark-colored-vov.svg" /> Kone project.](https://github.com/lounres/Kone)** <!-- TODO: Replace with link to official site when it will be ready --> It's my personal research projects on:
+1. **[<img style="height:1em;" src="https://github.com/lounres/Kone/blob/main/assets/sources/kone-mark-colored-vov.svg" /> Kone project.](https://github.com/lounres/Kone)** <!-- TODO: Replace with link to official site when it will be ready --> It's my personal research project on:
     - what we can compute on a computer (sorry for the pun),
     - how optimally we can compute these things (what is the most efficient way for it),
     - what is the best API for providing such algorithmic solutions.

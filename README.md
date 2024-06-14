@@ -1,17 +1,4 @@
-## Hi there 👋!
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋! I am Gleb!
 
 I am a maths bachelor student 📐 at Saint Petersburg State University (a.k.a. SPbU or СПбГУ). Also, computational maths experiments enthusiast and Kotlin amateur. I.e. my main direction of work consists of:
 1. Abstract maths. More specifically, algebraic geometry, computatinal geometry, and some other computational areas. Except for computational complexity theory.
@@ -43,11 +30,17 @@ Currently, I am working on/maintaining such projects:
 ## What am I familiar with? What technologies and knowledges do I wield?
 
 - **Mathematics:** linear algebra and geometry, discrete math, probability theory, math analysis, etc.
-- **Programming languages:** Kotlin; partially HTML/CSS, SQL, JavaScript, TypeScript, Rust, LaTeX.
+- **Programming languages:** Kotlin; familiar with HTML, CSS, SQL, Python, JavaScript, TypeScript, Rust, LaTeX.
 - **Basic programming instruments:** git, docker, IntelliJ IDEA
-- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform <!-- TODO: Describe other instruments -->
+- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform
 
+## What am I learning right now?
 
-<!--
-  Here are stats cards by https://github.com/anuraghazra/github-readme-stats#github-extra-pins
--->
+I am little by little learning (more prioritized things are underlined):
+- **programming languages:** <ins>Rust</ins>, Scala, C#, HTML, CSS, JavaScript, <ins>TypeScript</ins>, Erlang + Elixir + Gleam,
+- **frameworks:** <ins>Jetpack Compose + Compose Multiplatform</ins>, Exposed,
+- Android development,
+- **maths:** algebraic geometry in common, <ins>different algorithms of convex hull and Delaunay triangulation computation</ins>,
+- creative coding, and generative art.
+
+There is a lot to learn. So the moment I am tired of learning one thing, I continue learning another one from this list.

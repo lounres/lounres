@@ -41,6 +41,6 @@ I am little by little learning (more prioritized things are underlined):
 - **Frameworks:** <ins>Jetpack Compose + Compose Multiplatform</ins>, Exposed,
 - **Programming areas:** Android development,
 - **Mathematics:** algebraic geometry in common, <ins>different algorithms of convex hull and Delaunay triangulation computation</ins>,
-- **Other:** creative coding, and generative art.
+- **Other:** <ins>Material 3</ins>, creative coding, and generative art.
 
 There is a lot to learn. So the moment I am tired of learning one thing, I continue learning another one from this list.

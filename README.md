@@ -38,7 +38,7 @@ Currently, I am working on/maintaining such projects:
 
     For now, it is in early development stage. Unlike TheTrueHat, HalfHat follows publicly available and popular design system Material 3 by Google. It is going to gain desktop and Android clients aside from web one. Also, it is going to be a Kotlin Multiplatform and Compose Multiplatform project that should be simple to migrate on iOS.
 
-    Why does the word "hat" appear in the names? That's because in Russia it is called "шляпа" which literally is "the hat". And it called like that because all the words to guess are kept in a hat which is passed from player to player. But the "half" and "the true" parts came up randomly in our minds, so that's how I gave the project code name "HalfHat".
+    Why does the word "hat" appear in the names? That's because in Russia it is called "шляпа" which literally is "the hat". And it is called like that because all the words to guess are kept in a hat which is passed from player to player. But the "half" and "the true" parts came up randomly in our minds, so that's how I gave the project code name "HalfHat".
 
 ## What am I familiar with? What technologies and knowledges do I wield?
 

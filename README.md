@@ -18,11 +18,11 @@ I am a maths bachelor student 📐 at Saint Petersburg State University (a.k.a. 
 1. Mathematical computations (implementations of mathematical algorithms) and simulations (experiments without concrete goal).
 1. And mathematical libraries API architecture (where I suck).
 
-But I also like to engineering different programming stuff like simple full-stack application (server + Desktop client app + web client app + maybe something else) or Kotlin compiler plugin.
+But I also like engineering some programming stuff like simple full-stack application (server + Desktop client app + web client app + maybe something else) or Kotlin compiler plugin.
 
-Currently, I am finishing my studies at the university and trying to figure out who I would like to be, a mathematician or a programmer.
+Currently, I am finishing my studies at the university and trying to figure out whom I would like to be, a mathematician, a programmer, or maybe someone in between.
 
-## What I am working on?
+## What am I working on?
 
 Currently, I am working on/maintaining such projects:
 1. **[<img style="height:1em;" src="https://github.com/lounres/Kone/blob/main/assets/sources/kone-mark-colored-vov.svg" /> Kone project.](https://github.com/lounres/Kone)** <!-- TODO: Replace with link to official site when it will be ready --> It's my personal research projects on:
@@ -40,11 +40,12 @@ Currently, I am working on/maintaining such projects:
 
     Why does the word "hat" appear in the names? That's because in Russia it is called "шляпа" which literally is "the hat". And it called like that because all the words to guess are kept in a hat which is passed from player to player. But the "half" and "the true" parts came up randomly in our minds, so that's how I gave the project code name "HalfHat".
 
-## What am I familiar with? What technologies and knowledges I wield?
+## What am I familiar with? What technologies and knowledges do I wield?
 
 - **Mathematics:** linear algebra and geometry, discrete math, probability theory, math analysis, etc.
 - **Programming languages:** Kotlin; partially HTML/CSS, SQL, JavaScript, TypeScript, Rust, LaTeX.
-- **Libraries, technologies, and instruments:** Gradle, and a lot of other things that I am lazy to write for now <!-- TODO: Describe other instruments -->
+- **Basic programming instruments:** git, docker, IntelliJ IDEA
+- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform <!-- TODO: Describe other instruments -->
 
 
 <!--

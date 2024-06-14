@@ -31,16 +31,16 @@ Currently, I am working on/maintaining such projects:
 
 - **Mathematics:** linear algebra and geometry, discrete math, probability theory, math analysis, etc.
 - **Programming languages:** Kotlin; familiar with HTML, CSS, SQL, Python, JavaScript, TypeScript, Rust, LaTeX.
-- **Basic programming instruments:** git, docker, IntelliJ IDEA
-- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform
+- **Basic programming instruments:** git, docker, IntelliJ IDEA.
+- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform.
 
 ## What am I learning right now?
 
 I am little by little learning (more prioritized things are underlined):
-- **programming languages:** <ins>Rust</ins>, Scala, C#, HTML, CSS, JavaScript, <ins>TypeScript</ins>, Erlang + Elixir + Gleam,
-- **frameworks:** <ins>Jetpack Compose + Compose Multiplatform</ins>, Exposed,
-- Android development,
-- **maths:** algebraic geometry in common, <ins>different algorithms of convex hull and Delaunay triangulation computation</ins>,
-- creative coding, and generative art.
+- **Programming languages:** <ins>Rust</ins>, Scala, C#, HTML, CSS, JavaScript, <ins>TypeScript</ins>, Erlang + Elixir + Gleam,
+- **Frameworks:** <ins>Jetpack Compose + Compose Multiplatform</ins>, Exposed,
+- **Programming areas:** Android development,
+- **Mathematics:** algebraic geometry in common, <ins>different algorithms of convex hull and Delaunay triangulation computation</ins>,
+- **Other:** creative coding, and generative art.
 
 There is a lot to learn. So the moment I am tired of learning one thing, I continue learning another one from this list.

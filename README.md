@@ -31,14 +31,14 @@ Currently, I am working on/maintaining such projects:
 
 - **Mathematics:** linear algebra and geometry, discrete math, probability theory, math analysis, etc.
 - **Programming languages:** Kotlin; familiar with HTML, CSS, SQL, Python, JavaScript, TypeScript, Rust, LaTeX.
-- **Basic programming instruments:** git, docker, IntelliJ IDEA.
-- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform.
+- **Programming instruments:** git, docker, IntelliJ IDEA, Docusaurus.
+- **Libraries, technologies, and instruments:** Gradle, kotlinx.coroutines, kotlinx.serialization, Ktor, Compose Multiplatform, JMH and kotlinx-benchmark, dokka.
 
 ## What am I learning right now?
 
-I am little by little learning (more prioritized things are underlined):
+I am learning the following little by little. (More prioritized things are underlined.)
 - **Programming languages:** <ins>Rust</ins>, Scala, C#, HTML, CSS, JavaScript, <ins>TypeScript</ins>, Erlang + Elixir + Gleam,
-- **Frameworks:** <ins>Jetpack Compose + Compose Multiplatform</ins>, Exposed,
+- **Frameworks:** <ins>Jetpack Compose + Compose Multiplatform</ins>, Exposed, React,
 - **Programming areas:** Android development,
 - **Mathematics:** algebraic geometry in common, <ins>different algorithms of convex hull and Delaunay triangulation computation</ins>,
 - **Other:** <ins>Material 3</ins>, creative coding, and generative art.
